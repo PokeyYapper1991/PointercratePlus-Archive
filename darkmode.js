@@ -224,7 +224,6 @@ a.link {
     background: #4d0707;
     color: #fdd;
 }
-        /* Add more CSS rules for other elements as needed */
     `;
 
     // Create a new style element with the dark mode CSS rules
