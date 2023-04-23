@@ -8,6 +8,8 @@ This is my first time so gimme feedback <3
 
 [Download the script...](scripts/darkmode.js)
 
+------------------------------------------------------------
+
 Contact me:
 
 Discord: PokeyYapper1991#3443
