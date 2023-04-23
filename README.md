@@ -7,3 +7,8 @@ At the moment, you can only use this by copying the code written in the [darkmod
 This is my first time so gimme feedback <3
 
 [Download the script...](scripts/darkmode.js)
+
+Contact me:
+[YouTube](https://www.youtube.com/@PokeyYapper1991)
+Discord: PokeyYapper1991#3443
+[Twitter](https://twitter.com/PokeyYapper1991)
