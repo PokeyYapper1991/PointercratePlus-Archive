@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
     // Define the dark mode CSS rules
@@ -79,7 +79,6 @@ a {
     color: #000;
 }
 
-
 section[class="panel fade"] {
     background-color: #282828;
     color: azure;
@@ -130,10 +129,101 @@ body>div:first-child {
     background-image:url("https://cdn.discordapp.com/attachments/1006030501561253899/1099649976633671781/squares5_1.png")
 }
 
-<div [class="nav-icon nav-nohide"] {
-    background-image: ("https://cdn.discordapp.com/attachments/1006030501561253899/1099646177978368010/logo.png");
+section[class="panel fade js-scroll-anim"] {
+background-color: #282828 !important;
+    color: azure;
+    border-style: none !important;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
+
 }
 
+div[class="panel fade js-scroll-anim js-collapse"],[class="panel fade js-scroll-anim js-collapse active"] {
+background-color: #282828 !important;
+background: #282828 !important;
+    color: azure;
+    border-style: none !important;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
+
+}
+
+p[class="info-yellow"] {
+    font-family: montserrat,sans-serif;
+    text-align: center;
+    background: #353535;
+    border-style: none !important;
+    border-radius: 15px;
+    padding: 5px 15px;
+    color: #ffffff;
+    margin: 25px 0;
+    flex-grow: 1;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
+    }
+
+.panel {
+background: #282828 !important;
+color: azure !important;
+border-style: none !important;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
+
+}
+
+.arrow {
+color: #ffffff !important;
+opacity
+}
+
+.arrow:before,.arrow:after {
+    position: absolute;
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 3px;
+    background-color: #fff;
+    transition: .4s ease
+}
+
+.blue {
+    background-color: rgb(255, 120, 0);
+    color: #000000;
+}
+
+.blue.hover:not(.disabled):not([disabled]):hover,.blue.active {
+    background-color: #076696;
+    color: #fff
+}
+
+.blue.hover:not(.disabled):not([disabled]):active {
+    background-color: #055075;
+    color: #eee
+}
+
+tr {
+    background: #252525;
+}
+
+tr:nth-child(even) {
+    background: #232323;
+}
+a.link {
+    color: rgb(255, 120, 0);
+}
+#history-table tr {
+    background: rgb(32, 32, 32);
+    color: azure;
+}
+
+#history-table tr.moved-up {
+    background: #074d07;
+    color: #dfd;
+}
+
+#history-table tr.moved-down {
+    background: #4d0707;
+    color: #fdd;
+}
         /* Add more CSS rules for other elements as needed */
     `;
 
