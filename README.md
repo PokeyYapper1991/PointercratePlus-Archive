@@ -10,9 +10,9 @@ This is my first time so gimme feedback <3
 
 Contact me:
 
-[YouTube](https://www.youtube.com/@PokeyYapper1991)
-
 Discord: PokeyYapper1991#3443
+
+[YouTube](https://www.youtube.com/@PokeyYapper1991)
 
 [Twitter](https://twitter.com/PokeyYapper1991)
 
