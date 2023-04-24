@@ -70,11 +70,11 @@ Made with :heart: by <a href="https://github.com/PokeyYapper1991" target="_blank
 
 Discord: <strong>PokeyYapper1991#3443</strong>
 
-[YouTube](https://www.youtube.com/@PokeyYapper1991)
+<strong>[YouTube](https://www.youtube.com/@PokeyYapper1991)</strong>
 
-[Twitter](https://twitter.com/PokeyYapper1991)
+<strong>[Twitter](https://twitter.com/PokeyYapper1991)</strong>
 
-[Twitch](https://www.twitch.tv/pokeyyapper1991)
+<strong>[Twitch](https://www.twitch.tv/pokeyyapper1991)</strong>
 
 &#xa0;
 
