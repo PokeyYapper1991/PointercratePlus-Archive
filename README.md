@@ -66,9 +66,9 @@ Made with :heart: by <a href="https://github.com/PokeyYapper1991" target="_blank
 
 ------------------------------------------------------------
 
-<em>Contact me:</em>
+<strong>Contact me:</strong>
 
-Discord: PokeyYapper1991#3443
+Discord: <strong>PokeyYapper1991#3443</strong>
 
 [YouTube](https://www.youtube.com/@PokeyYapper1991)
 
