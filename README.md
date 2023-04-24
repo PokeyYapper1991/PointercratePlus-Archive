@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/PokeyYapper1991/pointercratedarkmode?color=FEB6B6">
+  <img alt="issues" src="https://img.shields.io/github/issues/PokeyYapper1991/pointercratedarkmode?color=FEB6B6">
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/PokeyYapper1991/pointercratedarkmode?color=B6FEB9">
 </p>
