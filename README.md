@@ -60,12 +60,13 @@ You can [download the script](scripts/darkmode.js) right here!
 
 Not yet?
 
+------------------------------------------------------------
 
 Made with :heart: by <a href="https://github.com/PokeyYapper1991" target="_blank">PokeyYapper1991</a>
 
 ------------------------------------------------------------
 
-Contact me:
+<em>Contact me:</em>
 
 Discord: PokeyYapper1991#3443
 
