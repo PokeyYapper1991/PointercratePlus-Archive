@@ -75,8 +75,8 @@ Discord: <strong>PokeyYapper1991#3443</strong>
 <strong>[Twitter](https://twitter.com/PokeyYapper1991)</strong>
 
 <strong>[Twitch](https://www.twitch.tv/pokeyyapper1991)</strong>
-
 &#xa0;
+
 ------------------------------------------------------------
 
 <a href="#top">Back to top</a>
