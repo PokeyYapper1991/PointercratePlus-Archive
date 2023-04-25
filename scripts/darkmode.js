@@ -152,7 +152,7 @@
     }
 
     body>div:first-child {
-        background-image:url("https://cdn.discordapp.com/attachments/1006030501561253899/1099649976633671781/squares5_1.png")
+        background-image:url("https://github.com/PokeyYapper1991/PointercrateDarkmode/blob/58d71062b5833892c7a0f3bedbe10b0d8b8c6a98/images/squares.png")
     }
 
     section[class="panel fade js-scroll-anim"] {
