@@ -152,7 +152,7 @@
     }
 
     body>div:first-child {
-        background-image:url("https://github.com/PokeyYapper1991/PointercrateDarkmode/blob/58d71062b5833892c7a0f3bedbe10b0d8b8c6a98/images/squares.png");
+        background-image:url("https://raw.githubusercontent.com/PokeyYapper1991/PointercrateDarkmode/58d71062b5833892c7a0f3bedbe10b0d8b8c6a98/images/squares.png");
     }
 
     section[class="panel fade js-scroll-anim"] {
