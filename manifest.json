@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Pointercrate Dark Theme",
+  "version": "0.1",
+  "homepage_url": "https://github.com/PokeyYapper1991/PointercrateDarkmode",
+  "options_ui": {"page": "options.html"},
+  "content_scripts": [
+    {
+      "matches": [
+        "https://pointercrate.com/*"
+      ],
+      "js": [
+        "darkmode.js"
+      ]
+    }
+  ]
+}
