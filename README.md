@@ -48,11 +48,13 @@ This doesn't do much, but it provides a very pleasing aesthetic!
 
 The following tools were used in this project:
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript]()
+- [JSON]()
+- [HTML]()
 
 ## :white_check_mark: Requirements ##
 
-At the moment, you need to have an extension such as [Tampermonkey](https://www.tampermonkey.net/index.php) installed.
+<!-- At the moment, you need to have an extension such as [Tampermonkey](https://www.tampermonkey.net/index.php) installed. --!>
 
 You can [download the script](scripts/darkmode.js) right here!
 
