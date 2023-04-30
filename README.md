@@ -54,11 +54,9 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-<!-- At the moment, you need to have an extension such as [Tampermonkey](https://www.tampermonkey.net/index.php) installed. --!>
+I have made this project into a chrome browser extension!
 
-
-
-You can [download the script](scripts/darkmode.js) right here!
+You can [download the extension](scripts/darkmode.js) right here!
 
 ## :memo: License ##
 
