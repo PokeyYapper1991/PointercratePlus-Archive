@@ -56,6 +56,8 @@ The following tools were used in this project:
 
 <!-- At the moment, you need to have an extension such as [Tampermonkey](https://www.tampermonkey.net/index.php) installed. --!>
 
+
+
 You can [download the script](scripts/darkmode.js) right here!
 
 ## :memo: License ##
