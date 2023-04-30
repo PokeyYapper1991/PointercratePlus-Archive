@@ -56,7 +56,7 @@ The following tools were used in this project:
 
 I have made this project into a chrome browser extension!
 
-You can [download the extension](scripts/darkmode.js) right here!
+You can [download the extension](Pointercrate Dark Theme) right here!
 
 ## :memo: License ##
 
