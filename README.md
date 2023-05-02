@@ -6,7 +6,7 @@
   <!-- <a href="https://pointercratedarkmode.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">PointercrateDarkmode</h1>
+<h1 align="center">Pointercrate+</h1>
 
 <p align="center">
 
